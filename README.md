@@ -43,7 +43,7 @@
 
 # USES Relationship & Examples
 
-<b> USES Relationship </b>
+<b> 1. USES Relationship </b>
 
 • Student <u>USES</u> Library
 
@@ -65,3 +65,9 @@
 
 <image src='image.png' width='400px'>
  
+
+# Relationships
+
+<b> Association</b>
+
+<u> HAS-A relationship </u> is called association as in two classes areassociated with each other
