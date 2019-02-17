@@ -41,9 +41,9 @@
 • Keep raising the level of abstraction to lower the complexity of theproblem
 
 
-# USES Relationship & Examples
+# USES Relationship  
 
-<b> 1. USES Relationship </b>
+<b> 1. USES Relationship - Dependency</b>
 
 • Student <u>USES</u> Library
 
@@ -66,7 +66,7 @@
 <image src='image.png' width='400px'>
  
 
-# Relationships
+# HAS-A Relationships - Association
 
 <b> Association</b>
 
@@ -91,3 +91,35 @@ class Student
   private Laptop _computer; 
 
 }
+
+# HAS-A Relationships - Aggregation
+
+<b> Whole AGGREGATES Part; Part IS-PART-OF Whole </b>
+
+• Special HAS-A relationship showing the whole and its parts
+
+• Parts can be shared (e.g. A course can be shared by many programs)
+
+• Parts can exist withoutthe whole (e.g. Teams are teams even when theyare not part of a game)
+
+• Parts can exist after the whole does not (e.g. Team continues to existwhen the game has finished)
+
+• Also called “shared aggregation”
+
+
+
+# HAS-A Relationships - Composition
+
+<b> Whole IS-COMPOSED-OF the part </b>
+
+• Special type of aggregation showing strong <b> ownership </b>
+
+• Parts CANNOT be shared. An object may be part of only one compositeat a time
+
+-e.g. an Instructor can be part of only one college at a time
+
+• The whole and its parts share the same lifetime: when the whole does not exist neither do its parts
+
+-e.g. A tournament game cannot exist (be played) after the tournament has ended
+
+
