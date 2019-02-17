@@ -23,7 +23,7 @@ Step 3
 
 # Object-Oriented Design (OOD)
 
-      << Purpose >>
+<b> << Purpose >> </b>
 
 • Grouping (generalizing, classifying) objects into classes
 
