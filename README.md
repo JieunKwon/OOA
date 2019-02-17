@@ -23,7 +23,7 @@ Step 3
 
 # Object-Oriented Design (OOD)
 
-<< Purpose >>
+      << Purpose >>
 
 • Grouping (generalizing, classifying) objects into classes
 
@@ -32,6 +32,7 @@ Step 3
 • Defining the functionality that objects of the class must implement
 
 << classes >>
+
 • Grouping classes into subsystems
 
 • Grouping subsystems into layers / tiers
