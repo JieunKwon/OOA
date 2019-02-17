@@ -71,3 +71,11 @@
 <b> Association</b>
 
 <u> HAS-A relationship </u> is called association as in two classes areassociated with each other
+
+ex)
+
+• Student HAS-A name
+
+• Student HAS-A student number
+
+• Student HAS-A laptop
