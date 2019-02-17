@@ -43,7 +43,7 @@
 
 # USES Relationship & Examples
 
-<b> 1. Case </b>
+<b> USES Relationship </b>
 
 • Student <u>USES</u> Library
 
@@ -51,7 +51,8 @@
 
 • Library provides Books
 
-<b> 2. Object </b>
+
+<b> 2. Classes </b>
 
 • Student  
 
@@ -59,7 +60,8 @@
 
 • Book
 
-<b> 3. Use in Code </b>
 
-<image src='image.png' width='600px'>
+<b> 3. Use Objects in Code </b>
+
+<image src='image.png' width='400px'>
  
