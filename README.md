@@ -1,20 +1,20 @@
 # Object-Oriented Analysis (OOA)
 
- << Process >> 
+ <b> Process </b>
   
-Step 1
+- Step 1
 
 • Read the requirements
 
 • Find the objects(the nouns)
 
-Step2
+- Step2
 
 • Read the requirements (again)
 
 • Find relationships(proximity)
 
-Step 3
+- Step 3
 
 • Read the requirements (yet again)
 
@@ -23,7 +23,7 @@ Step 3
 
 # Object-Oriented Design (OOD)
 
-<b> << Purpose >> </b>
+<b>   Purpose   </b>
 
 • Grouping (generalizing, classifying) objects into classes
 
@@ -31,7 +31,8 @@ Step 3
 
 • Defining the functionality that objects of the class must implement
 
-<< classes >>
+
+<b> classes </b>
 
 • Grouping classes into subsystems
 
