@@ -1,5 +1,4 @@
-# OOA
-Object-Oriented Analysis (OOA)
+# Object-Oriented Analysis (OOA)
 
  Process
  -------------------------
@@ -14,3 +13,6 @@ Step2
 Step 3
 •Read the requirements (yet again)
 •Find the methods (the verbs)
+
+
+# Object-Oriented Design (OOD)
