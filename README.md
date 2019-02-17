@@ -81,8 +81,13 @@ ex)
 • Student HAS-A laptop
 
 class Student
+
 {
-private String _name;
-private int_studentNumber; 
-private Laptop _computer; 
+
+  private String _name;
+
+  private int_studentNumber; 
+
+  private Laptop _computer; 
+
 }
