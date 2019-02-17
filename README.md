@@ -39,3 +39,12 @@
 • Grouping subsystems into layers / tiers
 
 • Keep raising the level of abstraction to lower the complexity of theproblem
+
+
+# USES Relationship & Examples
+
+• Student USES Library
+• Student studies in Library
+• Library provides Books
+
+
