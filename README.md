@@ -32,7 +32,7 @@
 • Defining the functionality that objects of the class must implement
 
 
-<b> classes </b>
+<b> Classes </b>
 
 • Grouping classes into subsystems
 
