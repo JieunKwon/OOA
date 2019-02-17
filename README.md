@@ -43,8 +43,23 @@
 
 # USES Relationship & Examples
 
-• Student USES Library
+<b> 1. Case </b>
+
+• Student <u>USES</u> Library
+
 • Student studies in Library
+
 • Library provides Books
 
+<b> 2. Object </b>
 
+• Student  
+
+• Library
+
+• Book
+
+<b> 3. Use in Code </b>
+
+<image src='image.png' width='600px'>
+ 
