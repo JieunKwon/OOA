@@ -38,12 +38,13 @@
 
 • Grouping subsystems into layers / tiers
 
-• Keep raising the level of abstraction to lower the complexity of theproblem
+• Keep raising the level of abstraction to lower the complexity of the problem
 
 
 # USES Relationship  
 
 <b> 1. USES Relationship - Dependency</b>
+
 
 • Student <u>USES</u> Library
 
@@ -54,6 +55,7 @@
 
 <b> 2. Classes </b>
 
+
 • Student  
 
 • Library
@@ -62,6 +64,7 @@
 
 
 <b> 3. Use Objects in Code </b>
+
 
 <image src='image.png' width='400px'>
  
