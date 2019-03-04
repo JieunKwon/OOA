@@ -27,7 +27,7 @@
 
 • Grouping (generalizing, classifying) objects into classes
 
-• Establishing relationships/ dependencies between classes (andtherefore objects)
+• Establishing relationships/ dependencies between classes (and therefore objects)
 
 • Defining the functionality that objects of the class must implement
 
